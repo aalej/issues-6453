@@ -2,7 +2,7 @@
 
 ## Versions
 
-firebase-tools: v12.7.0\n
+firebase-tools: v12.7.0<br>
 node: v18.16.1
 
 ## Steps to reproduce the issue
