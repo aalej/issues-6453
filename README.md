@@ -20,6 +20,6 @@ node: v18.16.1
 Error: Failed to update function projects/<project_id>/locations/<project_location>/functions/modifyUser
 ```
 
-Notes:
+## Notes:
 
 Redeploying the functions via `firebase deploy --project <project_id>` raises no errors, and applies the latest version of the secrets.
